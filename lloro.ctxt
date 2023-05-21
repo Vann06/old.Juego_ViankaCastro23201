@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=lloro
+comment0.text=\n\ Write\ a\ description\ of\ class\ lloro\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=upAndDown
+comment1.target=lloro(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ enemigoPega()
+comment4.params=
+comment4.target=void\ moveAround()
+numComments=5
